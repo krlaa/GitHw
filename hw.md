@@ -2,47 +2,47 @@ Homework #1 Dr. King's "I Have A Dream" Speech It's August of 1963 and you've ag
 
 → Homework Assignment: output of the git log command after you have completed the assignment. 
 Instructions: 
-# 1.Create a directory and place the P1, P2, and P3 files in it. 
-# 2.Make this directory your git repo. 
-# 3.Add the P1 file. 
-# 4.Add the P2 file. 
-# 5.Add the P3 file. 
-# 6.Commit the staging area files and call the commit "First Try". 
-# 7.Edit the P1 file. 
-# 8.Add "of our nation" to the end of the sentence. 
-# 9.Save the file. 
-# 10.Add the P1 file 
-# 11.Edit the P2 file. 
-# 12.Add "of their captivity" to the end of the 3rd sentence. 
-# 13.Save the file. 
-# 14.Add the P2 file 
-# 15.Edit the P3 file. 
-# 16.Do a global search and replace. Change "100" to "One hundred". 
-# 17.Save the file. 
-# 18.Add the P3 file. 
-# 19.Commit the staging area files and call the commit "Second Try". 
-# 20.Edit the P3 file. 
-# 21.Add "of poverty" after "island" in sentence #3. 
-# 22.Save the file. 
-# 23.Add the P3 file. 
-# 24.Commit the staging area files and call the commit "Third Try". 
-# 25.Edit the P3 file. 
-# 26.In the third sentence, change "  " to "on a sad and lonely island". 
-# 27.In the fifth sentence, change "dramatize a shameful" to "make everyone aware of a". 
-# 28.Save the file. 
-# 29.Dr. King has decided that he doesn't like the last set of changes that he made to the P3 file. He'd like to get the version that was last checked into the history back. 
-# 30.Retrieve the P3 file that was saved as a part of the "Third Try" commit and restore it to the working directory (note: capitalization of the file name matters!). 
-# 31.Make the "Third Try" commit go away. 
-# 32.Edit the P1 file. 
-# 33.Change "will" to "certainly shall". 
-# 34.Add P1 to the staging area. 
-# 35.Add P4 to the staging area. 
-# 36.Commit the staging area files and call the commit "Fourth Try". 
-# 37.Add P5 to the staging area. 
-# 38.Add P6 to the staging area. 
-# 39.Commit the staging area files and call the commit "Fifth Try". 
-# 40.Edit P6. 
-# 41.Do a global replace and change "time" to "point in time". 
-# 42.Add P6 to the staging area. 
-# 43.Commit the staging area files and call the commit "Sixth Try". 
-# 44.Dr. King doesn't like the change that he just made to P6. Remove the "Sixth Try" commit and restore the version of P6 that was in the fifth commit. 
+### 1.Create a directory and place the P1, P2, and P3 files in it. 
+### 2.Make this directory your git repo. 
+### 3.Add the P1 file. 
+### 4.Add the P2 file. 
+### 5.Add the P3 file. 
+### 6.Commit the staging area files and call the commit "First Try". 
+### 7.Edit the P1 file. 
+### 8.Add "of our nation" to the end of the sentence. 
+### 9.Save the file. 
+### 10.Add the P1 file 
+### 11.Edit the P2 file. 
+### 12.Add "of their captivity" to the end of the 3rd sentence. 
+### 13.Save the file. 
+### 14.Add the P2 file 
+### 15.Edit the P3 file. 
+### 16.Do a global search and replace. Change "100" to "One hundred". 
+### 17.Save the file. 
+### 18.Add the P3 file. 
+### 19.Commit the staging area files and call the commit "Second Try". 
+### 20.Edit the P3 file. 
+### 21.Add "of poverty" after "island" in sentence #3. 
+### 22.Save the file. 
+### 23.Add the P3 file. 
+### 24.Commit the staging area files and call the commit "Third Try". 
+### 25.Edit the P3 file. 
+### 26.In the third sentence, change "  " to "on a sad and lonely island". 
+### 27.In the fifth sentence, change "dramatize a shameful" to "make everyone aware of a". 
+### 28.Save the file. 
+### 29.Dr. King has decided that he doesn't like the last set of changes that he made to the P3 file. He'd like to get the version that was last checked into the history back. 
+### 30.Retrieve the P3 file that was saved as a part of the "Third Try" commit and restore it to the working directory (note: capitalization of the file name matters!). 
+### 31.Make the "Third Try" commit go away. 
+### 32.Edit the P1 file. 
+### 33.Change "will" to "certainly shall". 
+### 34.Add P1 to the staging area. 
+### 35.Add P4 to the staging area. 
+### 36.Commit the staging area files and call the commit "Fourth Try". 
+### 37.Add P5 to the staging area. 
+### 38.Add P6 to the staging area. 
+### 39.Commit the staging area files and call the commit "Fifth Try". 
+### 40.Edit P6. 
+### 41.Do a global replace and change "time" to "point in time". 
+### 42.Add P6 to the staging area. 
+### 43.Commit the staging area files and call the commit "Sixth Try". 
+### 44.Dr. King doesn't like the change that he just made to P6. Remove the "Sixth Try" commit and restore the version of P6 that was in the fifth commit. 
